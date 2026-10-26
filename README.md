@@ -106,11 +106,10 @@ A restaurant management project focused on backend development and service integ
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjwall1620&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ujjwal's GitHub Statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwall1620&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ujjwall1620&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
+
 
 ---
 
